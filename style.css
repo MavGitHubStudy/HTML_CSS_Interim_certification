@@ -412,8 +412,8 @@ header {
 }
 
 .fetured_items_list__card2 .card2_img_cont {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1062,8 +1062,8 @@ footer {
   /* end footer */
 }
 
-/* @media (max-width: 767px) */
-@media (min-width: 320px) and (max-width: 767px) {
+/* @media (min-width: 320px) and (max-width: 767px)  */
+@media (max-width: 767px) {
   /* 375px*/
   .container {
     width: 343px;
